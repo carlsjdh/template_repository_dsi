@@ -1,0 +1,9 @@
+{
+  "name": "Template",
+  "entryPoints": [
+    "./src"
+  ],
+  "out": "./docs",
+  "theme": "default",
+  "highlightTheme": "github-light"
+}
