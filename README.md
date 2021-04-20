@@ -1,1 +1,2 @@
 # Template Repository
+[![Coverage Status](https://coveralls.io/repos/github/carlsjdh/template_repository_dsi/badge.svg?branch=master)](https://coveralls.io/github/carlsjdh/template_repository_dsi?branch=master) [![Tests](https://github.com/carlsjdh/template_repository_dsi/actions/workflows/coveralls.yml/badge.svg)](https://github.com/carlsjdh/template_repository_dsi/actions/workflows/coveralls.yml)
